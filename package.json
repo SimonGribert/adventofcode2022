@@ -1,6 +1,8 @@
 {
   "name": "adventofcode-2022",
+  "type": "module",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +10,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "nodemon": "1.18.4"
+    "nodemon": "^3.1.7"
   },
   "keywords": []
 }

@@ -1,4 +1,6 @@
-const http = require("http");
+import { main } from "./2024/day1-1.js";
+
+import http from "http";
 
 http
   .createServer(function (req, res) {
@@ -6,3 +8,5 @@ http
     res.end();
   })
   .listen(8080);
+
+main();
