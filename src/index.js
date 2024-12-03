@@ -1,4 +1,4 @@
-import { main } from "./2024/day1-1.js";
+import { main } from "./2024/day2-1.js";
 
 import http from "http";
 
